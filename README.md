@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Droopy
 
-🎓 Engineering Student at EPITA
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Droopy16a&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+🎓 Engineering Student at EPITA  
 💻 Passionate about Computer Science, AI & Software Development  
 📍 Based in Villejuif, France  
 
@@ -19,24 +23,34 @@ I enjoy building projects, understanding systems deeply, and constantly pushing 
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- Python
-- C
-- JavaScript
-- TypeScript
-- SQL
-- Caml
 
-### 🌐 Web Development
-- React
-- Next.js
-- Node.js
-- HTML / CSS
-
-### 🧰 Tools & Software
-- Git
-- VS Code
-- Vim
-- Blender
-- Photoshop
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml"/>
+</p>
 
 ---
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css"/>
+</p>
+
+---
+
+### 🧰 Tools & Software
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim"/>
+</p>
