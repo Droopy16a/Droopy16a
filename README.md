@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Droopy
 
 🎓 Engineering Student at EPITA  
-💻 Passionate about Computer Science, AI & Software Development  
-📍 Based in Villejuif, France  
+💻 Passionate about Computer Science, AI & Software Development
 
 ---
 
