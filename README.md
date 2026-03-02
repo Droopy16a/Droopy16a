@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Droopy
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Droopy16a&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 🎓 Engineering Student at EPITA  
 💻 Passionate about Computer Science, AI & Software Development  
 📍 Based in Villejuif, France  
@@ -53,4 +49,16 @@ I enjoy building projects, understanding systems deeply, and constantly pushing 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Droopy16a&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Droopy16a&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
