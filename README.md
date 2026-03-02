@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Droopy
 
-<!--
-**Droopy16a/Droopy16a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at EPITA
+💻 Passionate about Computer Science, AI & Software Development  
+📍 Based in Villejuif, France  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently in my first year of the engineering cycle at **EPITA**, where I strengthen my foundations in computer science, algorithms, and software engineering.
+
+Through academic work, personal projects, and internships, I have developed solid skills in programming, web development, and data management.
+
+I enjoy building projects, understanding systems deeply, and constantly pushing my technical limits.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+- Python
+- C
+- JavaScript
+- TypeScript
+- SQL
+- Caml
+
+### 🌐 Web Development
+- React
+- Next.js
+- Node.js
+- HTML / CSS
+
+### 🧰 Tools & Software
+- Git
+- VS Code
+- Vim
+- Blender
+- Photoshop
+
+---
